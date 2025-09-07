@@ -1,3 +1,7 @@
-check.
 To begin with, we need to install an Arduino IDE (which includes the interpreter and compiler). The default Arduino software is sufficient, so we can use that. I’ve added a link for the Arduino installation below:
 - https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
+
+I think the best way to learn Arduino and coding is through practice, so I’ll share some real practice codes below.
+- https://www.youtube.com/playlist?list=PLjusLCxPk1B9vcstOjzLpDqPDj0VLjBMD
+
+This playlist is sufficient. 
