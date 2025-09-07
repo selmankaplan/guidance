@@ -1,4 +1,4 @@
-# guide_for_beginner
+# guide
 
 This repository was created to help beginners strengthen their understanding of logic structures, algorithms, and software development skills. I explain each step as clearly as possible to make it easy to follow. The repo is divided into some little parts:
 
