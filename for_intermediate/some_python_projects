@@ -1,0 +1,26 @@
+Now, we are taking a few steps forward and developing some projects.
+
+
+we'll have to generate a some user interface for some projects. Therefor, we need to know some python UI library such as TKinter, pyQT etc. TKinter is sufficient for us.
+
+After that we have to know that we can find any library for any project in python.
+
+I like the image processing :) We can begin with it.
+
+temporarily:
+https://github.com/opencv/opencv/tree/4.12.0/samples/python
+
+music player
+chatbot
+restaurant management app
+on screen keyboard
+video conference (like zoom)
+remote screen controller (like teamviewer)
+
+some machine learning practice beginning
+
+https://pythonprogramming.net/introduction-use-tensorflow-object-detection-api-tutorial/
+
+some mix :)
+https://pythonprogramming.net/robotics-raspberry-pi-tutorial-gopigo-introduction/
+
