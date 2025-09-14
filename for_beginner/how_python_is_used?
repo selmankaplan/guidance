@@ -1,5 +1,5 @@
 To begin with, we need to install a Python interpreter. I prefer to use Anaconda and its terminal UI. The terminal is a black screen, so I recommend writing your code in a .py file and then running it through the Anaconda terminal. I've added a link for anaconda installation;
-- https://www.anaconda.com/download
+- https://www.anaconda.com/download/success
 
 I also recommend to create a environment with python 3.9 and pip in anaconda.
 
