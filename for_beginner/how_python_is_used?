@@ -2,6 +2,7 @@ To begin with, we need to install a Python interpreter. I prefer to use Anaconda
 - https://www.anaconda.com/download/success
 
 I also recommend to create a environment with python 3.9 and pip in anaconda.
+- conda create -n python39 python=3.9 pip
 
 I’ve added some links below that show how Python is used. I hope these links will be really useful for any beginner. So:
 
